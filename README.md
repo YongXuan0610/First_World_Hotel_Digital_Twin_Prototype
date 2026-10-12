@@ -65,13 +65,13 @@ The accompanying report describes the project background, tools and technologies
 
 ## Screenshots
 
-```md
+
 ![Main Menu](Document/main-menu.jpg)
 ![Hotel Room Layout Day 1](Document/hotel-room-layout%20-%201%20%28day%29.jpg)
 ![Hotel Room Layout Night 1](Document/hotel-room-layout%20-%201%20%28night%29.jpg)
 ![Hotel Room Layout Day 2](Document/hotel-room-layout%20-%202%20%28day%29.jpg)
 ![Hotel Room Layout Night 2](Document/hotel-room-layout%20-%202%20%28night%29.jpg)
-```
+
 
 ## Notes on Availability
 
