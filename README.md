@@ -62,14 +62,18 @@ The accompanying report describes the project background, tools and technologies
 
 Place the report in the `docs/` folder with this filename so the link works:
 
-- **[Project Report](docs/First%20World%20Hotel%20Digital%20Twin%20Report.docx)**
+- **[Project Report](Document/First%20World%20Hotel%20Digital%20Twin%20Report.docx)**
 
 ## Screenshots
 
 Screenshots can be added here if they are approved for public sharing. Place them in a `screenshots/` folder and link them with Markdown, for example:
 
 ```md
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](Document/main-menu.jpg)
+![Hotel Room Layout (Day)](Document/hotel-room-layout - 1 (day).jpg)
+![Hotel Room Layout (Day)](Document/hotel-room-layout - 2 (day).jpg)
+![Hotel Room Layout (Night)](Document/hotel-room-layout - 1 (night).jpg)
+![Hotel Room Layout (Night)](Document/hotel-room-layout - 2 (night).jpg)
 ```
 
 ## Notes on Availability
